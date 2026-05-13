@@ -1,0 +1,13 @@
+{
+  "name": "automation-worker",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "convex": "^1.0.0",
+    "libphonenumber-js": "^1.10.0",
+    "playwright": "^1.52.0"
+  },
+  "type": "module"
+}
